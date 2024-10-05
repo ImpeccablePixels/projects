@@ -1,10 +1,6 @@
 # All projects
 All links for my projects under this account.
 
-## Table of Contents
+## Contents of this Repository
 
-- Installation
-- Usage
-- Contributing
-- License
-- Contact
+- Html file linking almost all of my projects to their URL.
