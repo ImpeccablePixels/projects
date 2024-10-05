@@ -1,2 +1,2 @@
-# projects
-All links for my projects
+# All projects
+All links for my projects under this account.
