@@ -12,4 +12,4 @@ All links for my projects under this account.
   - Some images files.
 
 ## Utilization of any repository referenced in index.html including this one:
-You are free to reuse and publish any of the contents repository in this without needs to credits or whatever.
+You are free to edit and publish any of the contents repository in this repository without the need to credit or whatever.
